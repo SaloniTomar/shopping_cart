@@ -1,0 +1,31 @@
+{
+    "num": [1, 2, 3, 4, 5, 6],
+    "name": ["Shirt", "Tank Top", "Trousers", "T Shirt", "Frock", "Boys' T-Shirt"],
+    "price": [800, 600, 1000, 900, 500, 400],
+    "imagesrc": ["./images/shirt.jpg", "./images/tanktop.jpg", "./images/trousers.jpg", "./images/tshirt.jpg", "./images/frock.jpg", "./images/boystshirt.jpg"]
+
+}
+
+
+/*Actual Data*/
+/*{
+    "productID": [101, 102, 201, 202, 301, 302],
+    "name": ["Shirt", "Tank Top", "Trousers", "T Shirt", "Frock", "Boys' T-Shirt"],
+    "price": [800, 600, 1000, 900, 500, 400],
+    "imagesrc": ["./images/shirt.jpg", "./images/tanktop.jpg", "./images/trousers.jpg", "./images/tshirt.jpg", "./images/frock.jpg", "./images/boystshirt.jpg"]
+
+
+}
+//=========================
+[{
+    pId: 101,
+    name: "Shirt",
+    price: 800,
+    imageSrc: "",
+    size: 32
+},{
+    pId: 102,
+    name: "Tank Top",
+    price: 600,
+    imageSrc: ""
+}]*/
