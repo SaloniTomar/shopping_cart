@@ -42,5 +42,5 @@ function checkOut() {
        var price = parseInt(result.rows[i].cells[1].innerHTML);
        totalprice += price;
    }
-   alert(totalprice);
+   alert("Total Amount is Rs."+totalprice);
 }
