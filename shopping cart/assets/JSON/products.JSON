@@ -1,3 +1,4 @@
+/*
 {
     "num": [1, 2, 3, 4, 5, 6],
     "name": ["Shirt", "Tank Top", "Trousers", "T Shirt", "Frock", "Boys' T-Shirt"],
@@ -5,6 +6,12 @@
     "imagesrc": ["./images/shirt.jpg", "./images/tanktop.jpg", "./images/trousers.jpg", "./images/tshirt.jpg", "./images/frock.jpg", "./images/boystshirt.jpg"]
 
 }
+*/
+
+{
+    "images": ["./images/img1.jpg", "./images/img2.jpg", "./images/img3.jpg", "./images/img4.jpg", "./images/img5.jpg", "./images/img6.jpg"]
+}
+
 
 
 /*Actual Data*/
